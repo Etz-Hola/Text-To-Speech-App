@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    height: 90%;
+    width: 120%;
+}
+
+
+
+.buttons{
+    font-weight: 100px;
+}
+
+button{
+    cursor: pointer;
+}
